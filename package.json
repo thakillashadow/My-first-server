@@ -1,0 +1,14 @@
+{
+  "author": "Ian Adams",
+  "name": "My first server",
+  "description": "My first server",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.13.4"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "~0.12.13"
+  }
+}
